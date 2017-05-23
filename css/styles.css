@@ -1,0 +1,33 @@
+body {
+  background-image: url(../img/cork-board.jpg);
+}
+
+.photo {
+  position: relative;
+  /*border: solid green 3px;*/
+  left: 400px;
+  top: 400px;
+};
+
+.man {
+  position: absolute;
+  /*border: solid purple 3px;*/
+}
+
+.frame {
+  position: absolute;
+  /*border: solid blue 3px;*/
+  top: -100px;
+  left: -115px;
+
+}
+
+#man {
+  width: 700px;
+}
+
+.pin {
+  position: absolute;
+  top: -100px;
+  left: 300px;
+}
